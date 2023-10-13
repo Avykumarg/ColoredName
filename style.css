@@ -1,0 +1,101 @@
+* {
+    box-sizing: border-box
+  }
+  
+.wrapper {
+    background: #141414;
+    line-height: 1;
+    min-height: 100%;
+    display: grid;
+    place-items: center;
+    min-height: calc(100vh - 16px);
+}
+.text {
+    font-family: "Exo", sans-serif;
+    font-size: 10vw;
+    color: #4285F4; /* Blue */
+}
+  
+.b{
+    font-family: "Exo", sans-serif;
+    font-size: 10vw;
+    color: #0F9D58; /* Green */
+}
+  
+.h {
+    font-family: "Exo", sans-serif;
+    font-size: 10vw;
+    color: #F4B400; /* Yellow */
+}
+  
+.a {
+    font-family: "Exo", sans-serif;
+    font-size: 10vw;
+    color: #DB4437; /* Red */
+}
+  .y {
+    font-family: "Exo", sans-serif;
+    font-size: 10vw;
+    color: #4285F4; /* Blue */
+  }
+  .K{
+    font-family: "Exo", sans-serif;
+    font-size: 10vw;
+    color: #4285F4; /* Blue */
+  }
+  
+  .u{
+    font-family: "Exo", sans-serif;
+    font-size: 10vw;
+    color: #0F9D58; /* Green */
+  }
+  
+  .m {
+    font-family: "Exo", sans-serif;
+    font-size: 10vw;
+    color: #F4B400; /* Yellow */
+  }
+  
+  .a-two {
+    font-family: "Exo", sans-serif;
+    font-size: 10vw;
+    color: #DB4437; /* Red */
+  }
+  .r {
+    font-family: "Exo", sans-serif;
+    font-size: 10vw;
+    color: #4285F4; /* Blue */
+  }
+  .g {
+    font-family: "Exo", sans-serif;
+    font-size: 10vw;
+    color: #4285F4; /* Blue */
+  }
+   
+  .a-3{
+    font-family: "Exo", sans-serif;
+    font-size: 10vw;
+    color: #0F9D58; /* Green */
+  }
+  
+  .u-2 {
+    font-family: "Exo", sans-serif;
+    font-size: 10vw;
+    color: #F4B400; /* Yellow */
+  }
+  
+  .t {
+    font-family: "Exo", sans-serif;
+    font-size: 10vw;
+    color: #DB4437; /* Red */
+  }
+  .a-4 {
+    font-family: "Exo", sans-serif;
+    font-size: 10vw;
+    color: #4285F4; /* Blue */
+  }
+  .m-two {
+    font-family: "Exo", sans-serif;
+    font-size: 10vw;
+    color: #0F9D58; /* Green */
+  }
